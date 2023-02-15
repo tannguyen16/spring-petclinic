@@ -27,5 +27,7 @@ from your repository.
 ![Fixed POM](images/8.PNG)
 
 9. 5 pts Your GitHub Actions dashboard showing the successful build after the breaking change has been fixed.
+![Fixed Actions](images/9.PNG)
 
 10. 5 pts Your GitHub repository with the readme.md file selected showing the build success status after the GitHub workflow has recovered.
+![Fixed README](images/10.PNG)
