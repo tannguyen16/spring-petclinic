@@ -12,6 +12,7 @@ from your repository.
 ![Badge](images/3.PNG)
 
 5 pts Your GitHub repository with the readme.md file selected showing the build success status after you’ve updated the badge markdown.
+![Badge Success](images/4.PNG)
 
 5 pts The section of the POM file showing the coordinates after you’ve commented them out.
 
